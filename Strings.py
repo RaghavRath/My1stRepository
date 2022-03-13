@@ -1,0 +1,5 @@
+name = input("Enter your name - ")
+print(name)
+print(len(name)-name.count(" "))
+print(name.endswith("Rath"))
+print(name.count("R"))
